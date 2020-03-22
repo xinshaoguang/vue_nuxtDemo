@@ -17,5 +17,5 @@ module.exports = {
     'vue'
   ],
   // add your custom rules here
-  rules: {}
+  rules: {}//eslint现在没有配置
 }
